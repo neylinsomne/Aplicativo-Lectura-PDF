@@ -1,0 +1,40 @@
+version: "3"
+services:
+  pgadmin4:
+      image: dpage/pgadmin4:8.11
+      restart: "no"
+      environment:
+        PGADMIN_DEFAULT_EMAIL: info@example.org
+        PGADMIN_DEFAULT_PASSWORD: password
+        PGADMIN_DEFAULT_ENHANCED_COOKIE_PROTECTION: "True"
+        PGADMIN_CONFIG_CONSOLE_LOG_LEVEL: 10
+      ports:
+        - 5480:80
+      networks:
+        - gisnet
+      volumes:
+        - pgadmin_data_mantis:/var/lib/pgadmin
+        - ./pgadmin:/var/lib/pgadmin/sessions
+
+  pg16:
+      image: postgres:16
+      restart: "no"
+      container_name: pg16
+      environment:
+        POSTGRES_PASSWORD: xd
+      volumes:
+        - pg16_data_mantis::/var/lib/postgresql/data
+      ports:
+        - "5436:5432"  
+      networks:
+        - gisnet
+
+volumes:
+    pg16_data_mantis:
+    pgadmin_data_mantis:
+
+
+networks:
+  gisnet:
+    external:
+      name: gisnet
