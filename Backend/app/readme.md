@@ -1,4 +1,5 @@
-![ETL pasajes](https://ibb.co/G29XycQ)
+![ETL pasajes](https://i.ibb.co/G29XycQ)
+
 
 Después del ETL vamos a ver el proceso de conexión entre Backend y Frontend
 
