@@ -1,0 +1,154 @@
+Security nb: 114
+Ticket: 996765272688701
+6AM
+QAirEuropa
+Boarding Zone 4
+Boarding Pass
+Rodriguez Cifuentes
+Luisa Mariana
+FROM
+TO
+TAKE-OFF
+LANDING
+10.45
+13.35
+14 Nov 2021
+MUC
+MAD
+14 Nov 2021
+Terminal 1
+Terminal 2
+Munich International
+Madrid Adolfo Suarez Baraja
+FLIGHT
+SEAT
+BOARDING TIME
+GATE
+UX1516
+14D
+10:00
+Check monitors
+TRAVEL INFORMATION
+Boarding pass information
+Checked baggage allowance
+FREQUENT FLYER
+Contact operating airline for
+None
+information.
+CLASS OF TRAVEL
+Travel documents
+Carry-on baggage allowance
+Please note that the passenger is
+Contact operating airline for
+CLASE TURISTA
+responsible for the validity of
+information.
+[Passportl
+passport and other travel documents
+BOOKING REFERENCE
+for the complete journey.
+3Y3FW9
+Other information
+CTCE , CTCM
+TICKET
+ETKT
+996765272688701
+NEXT STEPS
+Note
+Carry-on baggage only
+Departure
+Please reserve enough time for
+Proceed to
+when you have
+Air Europa wishes you a
+baggage check-in, security control
+carry-on
+only and required
+nice flight!
+and boarding
+boarding passes_
+Baggage drop closing time
+Boarding
+Take your baggage to the Baggage
+Please report at the boarding
+Drop desk at the latest by 09.45.
+gate at the latest by 10.00.
+gate
+bag
+Security nb: 169
+Ticket: 996765272688702
+6AM
+QAirEuropa
+Boarding Zone 4
+Boarding Pass
+Rodriguez Cifuentes
+Luisa Mariana
+FROM
+TO
+TAKE-OFF
+LANDING
+15:15
+19.35
+14 Nov 2021
+MAD
+BOG
+14 Nov 2021
+Terminal 1
+Terminal 1
+Madrid Adolfo Suarez Baraja
+Bogota El Dorado Intl
+FLIGHT
+SEAT
+BOARDING TIME
+GATE
+UX193
+28K
+14:15
+AB
+TRAVEL INFORMATION
+Boarding pass information
+Checked baggage allowance
+FREQUENT FLYER
+Contact operating airline for
+None
+information.
+CLASS OF TRAVEL
+Travel documents
+Carry-on baggage allowance
+Please note that the passenger is
+Contact operating airline for
+CLASE TURISTA
+responsible for the validity of
+information.
+[Passportl
+passport and other travel documents
+BOOKING REFERENCE
+for the complete journey.
+3Y3FW9
+Other information
+CTCE , CTCM
+TICKET
+ETKT
+996765272688702
+NEXT STEPS
+Note
+Carry-on baggage only
+Departure
+Please reserve enough time for
+Proceed to
+when you have
+Air Europa wishes you a
+baggage check-in, security control
+carry-on
+only and required
+nice flight!
+and boarding
+boarding passes_
+Baggage drop closing time
+Boarding
+Take your baggage to the Baggage
+Please report at the boarding
+Drop desk at the latest by 14:15.
+gate at the latest by 14:15.
+gate
+bag

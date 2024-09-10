@@ -1,0 +1,63 @@
+TARJETA DE EMBARQUE
+Pasajero
+Andres Felipe Daza Diaz
+Codigo de reserva
+KBFBJN
+Vuelo
+WJ3186
+Fecha
+SAB. 25 NOV. 2023
+Origen
+EZE
+Buenos Aires,
+Ezeiza
+05:01 AM
+Destino
+BRC
+Bariloche
+07:18 AM
+*Recuerda presentarte 2 horas antes en el aeropuerto.
+El embarque cierra 20 minutos antes de la salida de tu vuelo.
+EMBARQUE
+PUERTA*
+SEQ
+ASIENTO
+ZONA
+04:11 AM
+-
+78
+22 E
+3
+*Vuelo operado por JetSMART Airlines SA
+TU PASAJE INCLUYE
+22E
+x1
+TU PASAJE NO INCLUYE
+Aun estas a tiempo para comprar mas
+equipaje en
+contario en el aeropuerto sera mas caro.
+www.jetsmart.com
+, de lo
+Recuerda llevar solo articulos que esten
+permitidos, para mas informacion revisa
+nuestras preguntas frecuentes.
+TU ITINERARIO DE VUELO
+03:01 AM
+Llegada al aeropuerto
+Recuerda llegar 2 horas antes de la hora de
+salida del vuelo.
+Entrega de equipaje
+Podras entregar tu equipaje facturado en
+counter hasta 50 minutos antes de la salida
+del vuelo.
+04:11 AM
+05:01 AM
+Embarque
+Dirigete a tu puerta de embarque, esta
+cierra 20 minutos antes de la salida del
+vuelo.
+Vuelo
+¡A volar SMART!.
+07:18 AM
+Arribo
+¡Ya llegaste a tu destino!
