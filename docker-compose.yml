@@ -19,11 +19,11 @@ services:
   pg16:
       image: postgres:16
       restart: "no"
-      container_name: pg16
+      container_name: pg16_mantis
       environment:
         POSTGRES_PASSWORD: xd
       volumes:
-        - pg16_data_mantis::/var/lib/postgresql/data
+        - pg16_data_mantis:/var/lib/postgresql/data
       ports:
         - "5436:5432"  
       networks:
