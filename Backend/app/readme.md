@@ -19,4 +19,4 @@ se encarga de cargar desde un df y la session (que se obtiene desde el archivo c
 Se encarga de leer desde las imagenes hasta los archivos pdf en si
 
 -Pipeline.py:
-El corazón de este proyecto en si se encarga de procesar la información obtenida desde lectura.py, tomando el procesamiento de imagen
+El corazón de este proyecto en si se encarga de procesar la información obtenida desde lectura.py, tomando el procesamiento de imagen y llevandolo a la inyección en la base de datos.
