@@ -1,5 +1,9 @@
 ![ETL BACKEND](https://ibb.co/hDfBMjm)
 https://ibb.co/hDfBMjm
+
+Aplicativo web que lee ticketes aereos, les hace un pipeline y los mete en una base relacional
+
+
 Después del ETL vamos a ver el proceso de conexión entre Backend y Frontend
 
 Cómo iniciarlo?
